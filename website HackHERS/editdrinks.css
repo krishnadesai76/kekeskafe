@@ -1,0 +1,43 @@
+body{
+    background-color: #ac663e;
+   }
+   
+   
+   p{
+   
+   
+       color: black;
+       font-size: 60px;
+       font-family: 'Montserrat', sans-serif;  
+       text-align: center;
+       font-weight: 100;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+   }
+   
+   
+   
+   .center{
+      
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+     
+   }
+
+
+  
+.title{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: white;
+    font-family: 'Dancing Script', cursive; 
+    font-size: 80px;
+    text-align: center;
+}
+ 
